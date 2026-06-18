@@ -1,1 +1,10 @@
-
+MetaTrader5==5.0.45
+pandas==2.2.3
+numpy==2.2.2
+pandas-ta==0.3.14b0
+python-dotenv==1.0.1
+loguru==0.7.3
+SQLAlchemy==2.0.36
+pydantic==2.10.6
+pytz==2025.1
+rich==13.9.4
